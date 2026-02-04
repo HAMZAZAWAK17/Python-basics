@@ -85,4 +85,9 @@ print("Est-ce que x est superieur ou egal a 10 ?", x >= 10)
 print("Est-ce que x est inferieur ou egal a 15 ?", x <= 15)
 
 
+#and or not:
+print("and:", x > y and x < y)
+print("or:", x > y or x < y)
+print("not:", not (x > y))
+
 
