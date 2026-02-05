@@ -39,6 +39,9 @@ Ce projet contient l'ensemble des exercices, cours et travaux pratiques (TP) ré
     *   `25_modules.py` : Introduction aux bibliothèques externes (`math`, `random`, `datetime`).
     *   `README_MODULES.md` : Guide détaillé sur l'utilisation des modules.
 
+8.  **Gestion des Fichiers**
+    *   `26_gestion_fichiers.py` : Lecture, écriture et ajout de données dans des fichiers texte.
+
 ---
 
 ## 🛠️ Travaux Pratiques (TP) Principaux
